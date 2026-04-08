@@ -18,7 +18,11 @@ VALUES('La pelicula es muy buena y me encanta la forma en contar la historia de 
 ('Esta pelicula me hizo reflexionar sobre como el trabajo duro y la soledad cambia a las personas, excelentes actuaciones', 2, 2 ),
 ('Me gusto como la fotografia de esta pelicula, me parece muy original y digna de su oscar', 3,3),
 ('Sinners es una pelicula diferente, eso la hace disfrutable, tiene muy buena musica', 4,4),
-('Buena para ver con amigos, trama sencilla y disfrutable de inicio a fin', 5,5);
+('Buena para ver con amigos, trama sencilla y disfrutable de inicio a fin', 5,5)
+("La peli me parecio algo lenta pero tiene momentos buenos, me la volveria a ver", 1,2),
+("Me pareció muy ridicula, pocas cosas rescatables, no me causo risa", 2, 5),
+("La verdad es que es una peli normalita, no se que le ven y porque premiaron a M.B.Jordan como mejor actor, se lo merecia Timothée Chalamet", 1,4),
+("Muy aburrida, grandes actuaciones pero lentisima", 5,1);
 
 INSERT into persona(nombre, pais)
 VALUES('Christian Bale', 'Reino Unido'),
